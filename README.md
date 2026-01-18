@@ -62,7 +62,7 @@ From the final cross-validated evaluation:
 ![Model Comparison](images/model_comparison.png)
 
 ### Decision Tree Confusion Matrix (Cross-Validated)
-![Decision Tree Confusion Matrix CV](images/confusion_matrix_decision_tree_cv.png)
+![Decision Tree Confusion Matrix CV](images/confusion_matrix_best_model.png)
 
 ### Top Predictors / Feature Importance (Tree Model)
 ![Top Predictors](images/top_predictors.png)
